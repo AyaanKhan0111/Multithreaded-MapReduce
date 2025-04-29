@@ -1,9 +1,4 @@
 # Multithreaded-MapReduce
-
-# Basic MapReduce Framework
-
-**Authors:** Muhammad Qasim, Ayaan Khan, Ahmad Luqman
-
 ## Overview
 This project implements a simplified MapReduce framework in C/C++ to demonstrate parallel data processing using operating system concepts such as threading, synchronization, and inter-thread communication.
 
